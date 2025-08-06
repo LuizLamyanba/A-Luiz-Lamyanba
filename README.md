@@ -12,7 +12,7 @@ cloud-security-roadmap
 ## 🔍 About Me
 - 🎓 3rd year Electronics & Communication Engineering student
 - ☁️ Passionate about **Cloud Security** and **Building Secure Systems**
-- 📖 Learning in public — 12-month [Cloud Security Roadmap](https://github.com/angomluis/cloud-security-roadmap)
+- 📖 Learning in public — 12-month [Cloud Security Roadmap](coming soon ...)
 - ✍️ Blogging regularly about what I build & learn
 - 💡 Interested in IAM, AWS security, Python scripting, and automation
 
