@@ -5,7 +5,7 @@ cloud-security-roadmap
 🚀 Aspiring **Cloud Security Engineer** | ECE Undergrad  
 🛡️ Learning AWS, Python, Linux, DevSecOps & Infrastructure as Code  
 💪 Calisthenics Enthusiast | 🏍️ Biker | Discipline-Driven  
-📝 Writing my journey: [angom.hashnode.dev](https://angom.hashnode.dev)
+📝 Writing my journey: [angom.hashnode.dev](https://luizmakescloud.hashnode.dev/?source=top_nav_blog_home)
 
 ---
 
@@ -39,7 +39,7 @@ cloud-security-roadmap
 ## ✍️ Blog Posts
 📚 Follow my CloudSec journey on [Hashnode](https://angom.hashnode.dev)
 
-- [Why I Chose Cloud Security](https://angom.hashnode.dev/why-cloud-security)
+- [Why I Chose Cloud Security](https://luizmakescloud.hashnode.dev/from-ece-student-to-cloud-security-engineer-my-roadmap-and-journey)
 
 
 ---
