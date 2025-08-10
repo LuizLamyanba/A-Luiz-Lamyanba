@@ -12,7 +12,7 @@ cloud-security-roadmap
 ## 🔍 About Me
 - 🎓 3rd year Electronics & Communication Engineering student
 - ☁️ Passionate about **Cloud Security** and **Building Secure Systems**
-- 📖 Learning in public — 12-month [Cloud Security Roadmap](coming soon ...)
+- 📖 Learning in public — 12-month [Cloud Security Roadmap]()
 - ✍️ Blogging regularly about what I build & learn
 - 💡 Interested in IAM, AWS security, Python scripting, and automation
 
@@ -28,7 +28,7 @@ cloud-security-roadmap
 ---
 
 ## 🧱 Projects
-> 📂 [View all my repos]()
+> 📂 [View all my repos](https://github.com/LuizLamyanba?tab=repositories)
 
 | Project | Description | Tech Used |
 |--------|-------------|-----------|
