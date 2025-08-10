@@ -2,7 +2,7 @@
 cloud-security-roadmap
 # 👋 Hey there! I'm Luiz Lamyanba
 
-🚀 Aspiring **Cloud Security Engineer** | ECE Undergraduate 
+🚀 Aspiring **Cloud Security Engineer** | ECE Undergrad
 🛡️ Learning AWS, Python, Linux, DevSecOps & Infrastructure as Code  
 💪 Calisthenics Enthusiast | 🏍️ Biker | Discipline-Driven  
 📝 Writing my journey: [angom.hashnode.dev](https://luizmakescloud.hashnode.dev/?source=top_nav_blog_home)
