@@ -32,7 +32,7 @@ cloud-security-roadmap
 
 | Project | Description | Tech Used |
 |--------|-------------|-----------|
-| `cloud-security-roadmap` | My full journey to become a Cloud Security Engineer | AWS, Python, Markdown |
+| [cloud-security-roadma](https://github.com/LuizLamyanba/Cloud-Security-Roadmap) | My full journey to become a Cloud Security Engineer | AWS, Python, Markdown |
 
 ---
 
