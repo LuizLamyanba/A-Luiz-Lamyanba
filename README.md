@@ -46,7 +46,7 @@ cloud-security-roadmap
 ---
 
 ## 📫 Let's Connect!
-- 🔗 [LinkedIn](www.linkedin.com/in/luizmakescloud)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/luizmakescloud/)
 - 💻 [GitHub](https://github.com/LuizLamyanba)
 - ✍️ [Blog](https://angom.hashnode.dev)
 
