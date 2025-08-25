@@ -41,7 +41,7 @@ cloud-security-roadmap
 
 - [Why I Chose Cloud Security](https://luizmakescloud.hashnode.dev/from-ece-student-to-cloud-security-engineer-my-roadmap-and-journey)
 - [The Struggle of Starting: How I Pushed Through and Finished Git & GitHub](https://luizmakescloud.hashnode.dev/the-struggle-of-starting-how-i-pushed-through-and-finished-git-and-github)
-
+- [From Pings to Permissions: My First Steps in Networking & Linux](https://luizmakescloud.hashnode.dev/from-pings-to-permissions-my-first-steps-in-networking-and-linux)
 
 ---
 
