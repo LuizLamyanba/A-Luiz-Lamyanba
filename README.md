@@ -33,6 +33,7 @@ cloud-security-roadmap
 | Project | Description | Tech Used |
 |--------|-------------|-----------|
 | [cloud-security-roadmap](https://github.com/LuizLamyanba/Cloud-Security-Roadmap) | My full journey to become a Cloud Security Engineer | AWS, Python, Markdown |
+| [Python_mini_project](https://github.com/LuizLamyanba/Cloud-Security-Roadmap/tree/main/Phase-1-%5BSetup%20and%20basics%5D/Python_automation/Python_Projects) | My mini projects i did during my phase 1 of learning python automation | Python, Requests, json, API |
 
 ---
 
@@ -43,6 +44,7 @@ cloud-security-roadmap
 - [The Struggle of Starting: How I Pushed Through and Finished Git & GitHub](https://luizmakescloud.hashnode.dev/the-struggle-of-starting-how-i-pushed-through-and-finished-git-and-github)
 - [From Pings to Permissions: My First Steps in Networking & Linux](https://luizmakescloud.hashnode.dev/from-pings-to-permissions-my-first-steps-in-networking-and-linux)
 - perosnal blog - [One More Rep, One More Step – To the NCC Para Basic Course 2025](https://luizmakescloud.hashnode.dev/one-more-rep-one-more-step-to-the-ncc-para-basic-course-2025)
+- [How I Used Python to Automate Cloud Security: 6 Projects That Changed My Workflow](https://luizmakescloud.hashnode.dev/how-i-used-python-to-automate-cloud-security-6-projects-that-changed-my-workflow)
 
 ---
 
