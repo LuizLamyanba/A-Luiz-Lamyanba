@@ -18,12 +18,12 @@ cloud-security-roadmap
 
 ---
 
-## 🛠️ Tech Stack
-- **Cloud**: AWS (EC2, S3, IAM, CloudTrail)
+## 🛠️ Tech Stack(updated with my progression)
+- **Cloud**: AWS (EC2, S3, IAM, Cloudformation)
 - **Programming**: Python, Bash
-- **Tools**: Git, Terraform, Docker
-- **DevSecOps**: CI/CD, AWS CLI, VS Code
-- **OS**: Linux, Ubuntu
+- **Tools**: Git
+- **DevSecOps**: AWS CLI, VS Code
+- **OS**: Linux
 
 ---
 
@@ -43,8 +43,15 @@ cloud-security-roadmap
 - [Why I Chose Cloud Security](https://luizmakescloud.hashnode.dev/from-ece-student-to-cloud-security-engineer-my-roadmap-and-journey)
 - [The Struggle of Starting: How I Pushed Through and Finished Git & GitHub](https://luizmakescloud.hashnode.dev/the-struggle-of-starting-how-i-pushed-through-and-finished-git-and-github)
 - [From Pings to Permissions: My First Steps in Networking & Linux](https://luizmakescloud.hashnode.dev/from-pings-to-permissions-my-first-steps-in-networking-and-linux)
-- perosnal blog - [One More Rep, One More Step – To the NCC Para Basic Course 2025](https://luizmakescloud.hashnode.dev/one-more-rep-one-more-step-to-the-ncc-para-basic-course-2025)
+- personal blog - [One More Rep, One More Step – To the NCC Para Basic Course 2025](https://luizmakescloud.hashnode.dev/one-more-rep-one-more-step-to-the-ncc-para-basic-course-2025)
 - [How I Used Python to Automate Cloud Security: 6 Projects That Changed My Workflow](https://luizmakescloud.hashnode.dev/how-i-used-python-to-automate-cloud-security-6-projects-that-changed-my-workflow)
+- [I Stopped 'Learning Python' and Started Automating My Life](https://luizmakescloud.hashnode.dev/i-stopped-learning-python-and-started-automating-my-life)
+
+---
+## 🎥 YouTube — Learning in Public
+I document my **Cloud Security journey** and my **lifestyle/documentation** on YouTube — focusing on real learning, real struggles, and real systems I build as a student preparing for my future.
+
+🎥 [Youtube](https://www.youtube.com/@LuizLamyanba)
 
 ---
 
