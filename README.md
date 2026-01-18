@@ -34,6 +34,7 @@ cloud-security-roadmap
 |--------|-------------|-----------|
 | [cloud-security-roadmap](https://github.com/LuizLamyanba/Cloud-Security-Roadmap) | My full journey to become a Cloud Security Engineer | AWS, Python, Markdown |
 | [Python_mini_project](https://github.com/LuizLamyanba/Cloud-Security-Roadmap/tree/main/Phase-1-%5BSetup%20and%20basics%5D/Python_automation/Python_Projects) | My mini projects i did during my phase 1 of learning python automation | Python, Requests, json, API |
+| [event-announcement-app](https://github.com/LuizLamyanba/event-announcement-app/tree/main) | The Event Announcement App is a serverless, event-driven web application designed to publish event announcements and notify subscribers via email. The application follows a clean separation of concerns by using managed AWS services, eliminating the need for backend servers and manual scaling.A static frontend hosted on Amazon S3 sends event data to a REST API exposed through Amazon API Gateway. The API triggers an AWS Lambda function that processes the request and publishes notifications to Amazon SNS.| Amazon S3 (Static Website), Amazon API Gateway (REST API), AWS Lambda (Python), Amazon SNS (Email Notifications), AWS IAM (Least Privilege), AWS CloudFormation (Infrastructure as Code), AWS CLI & GitHub.
 
 ---
 
