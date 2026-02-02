@@ -19,10 +19,9 @@ cloud-security-roadmap
 ---
 
 ## 🛠️ Tech Stack(updated with my progression)
-- **Cloud**: AWS (EC2, S3, IAM, Cloudformation)
+- **Cloud**: AWS (EC2, S3, IAM, Cloudformation, VPC, Lambda, API Gateway)
 - **Programming**: Python, Bash , Java
-- **Tools**: Git
-- **DevSecOps**: AWS CLI, VS Code
+- **Tools**: Git, VS Code
 - **OS**: Linux
 
 ---
